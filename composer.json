@@ -1,0 +1,20 @@
+{
+    "name": "sidspears/strategy",
+    "description": "Simple calculator, with pattern Strategy",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Grigoryev",
+            "email": "thesidspears@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SidSpears\\": "src"
+        }
+    }
+}
